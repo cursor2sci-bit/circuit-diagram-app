@@ -1,0 +1,6 @@
+---
+pid: 23972
+cwd: |
+  C:\Users\2c30
+---
+PS C:\Users\2c30>
